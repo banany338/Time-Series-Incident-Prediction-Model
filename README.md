@@ -53,8 +53,8 @@ Deploying this pipeline into a live SRE environment would involve the following 
 
 ```bash
 # Clone the repository
-git clone [YOUR_REPO_LINK]
-cd [YOUR_REPO_NAME]
+git clone github.com/banany338/Time-Series-Incident-Prediction-Model
+cd github.com/banany338/Time-Series-Incident-Prediction-Model
 
 # Install dependencies
 pip install -r requirements.txt
